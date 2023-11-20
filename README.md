@@ -21,7 +21,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
-- [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [X] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 - [X] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
